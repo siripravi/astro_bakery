@@ -1,0 +1,4 @@
+{
+  "name": "example-ng-click",
+  "files": ["index-production.html", "protractor.js"]
+}

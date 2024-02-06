@@ -1,0 +1,4 @@
+{
+  "name": "example-ng-bind",
+  "files": ["index-production.html", "protractor.js"]
+}

@@ -1,0 +1,4 @@
+{
+  "name": "example-animate-cancel",
+  "files": ["index-production.html", "app.js", "template.html", "style.css"]
+}

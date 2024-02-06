@@ -1,0 +1,4 @@
+{
+  "name": "example-limit-to-filter",
+  "files": ["index-production.html", "protractor.js"]
+}

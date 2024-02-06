@@ -1,0 +1,4 @@
+{
+  "name": "example-select",
+  "files": ["index-production.html", "protractor.js"]
+}

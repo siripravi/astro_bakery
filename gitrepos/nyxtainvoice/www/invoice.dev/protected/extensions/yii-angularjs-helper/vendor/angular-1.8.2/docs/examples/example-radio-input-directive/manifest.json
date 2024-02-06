@@ -1,0 +1,4 @@
+{
+  "name": "example-radio-input-directive",
+  "files": ["index-production.html", "protractor.js"]
+}

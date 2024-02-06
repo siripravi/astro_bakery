@@ -1,0 +1,4 @@
+{
+  "name": "example-filter-date",
+  "files": ["index-production.html", "protractor.js"]
+}

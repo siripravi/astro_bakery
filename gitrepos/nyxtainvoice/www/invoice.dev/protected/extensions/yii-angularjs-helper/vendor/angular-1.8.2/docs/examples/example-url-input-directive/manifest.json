@@ -1,0 +1,4 @@
+{
+  "name": "example-url-input-directive",
+  "files": ["index-production.html", "protractor.js"]
+}

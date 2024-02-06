@@ -1,0 +1,65 @@
+/* END CUSTOM POPOVERS*/
+textarea:hover, 
+input:hover, 
+textarea:active, 
+input:active, 
+textarea:focus, 
+input:focus,
+button:focus,
+button:active,
+button:hover
+{
+    outline:0px !important;
+    -webkit-appearance:none;
+}
+ textarea { width: 100%; border: 1px solid #333; padding: 4px; }
+ .select2-container--default .select2-search--inline .select2-search__field {
+    width: auto !important;
+}
+table#table-sever-list tr td a.rowOption {
+        filter: alpha(opacity=100); opacity: 0;
+        -webkit-transition: all .1s ease-out;
+        -moz-transition: all .1s ease-out;
+        -o-transition: all .1s ease-out;
+        transition: all .1s ease-out;}
+table#table-sever-list tr:hover td a.rowOption {
+        filter: alpha(opacity=100); opacity: 1.00;
+        -webkit-transition: all .1s ease-out;
+        -moz-transition: all .1s ease-out;
+        -o-transition: all .1s ease-out;
+        transition: all .1s ease-out;
+}
+
+div#inv-header a.rowOption{
+     filter: alpha(opacity=100); opacity: 0;
+        -webkit-transition: all .1s ease-out;
+        -moz-transition: all .1s ease-out;
+        -o-transition: all .1s ease-out;
+        transition: all .1s ease-out;
+}
+
+div#inv-header:hover a.rowOption{
+     filter: alpha(opacity=100); opacity: 1.00;
+        -webkit-transition: all .1s ease-out;
+        -moz-transition: all .1s ease-out;
+        -o-transition: all .1s ease-out;
+        transition: all .1s ease-out;
+    
+}
+
+#chg_customer_form, #chg_venue_form {
+     filter: alpha(opacity=100); opacity: 0;
+        -webkit-transition: all .1s ease-out;
+        -moz-transition: all .1s ease-out;
+        -o-transition: all .1s ease-out;
+        transition: all .1s ease-out;
+}
+
+#chg_customer_form:hover, #chg_venue_form:hover {
+     filter: alpha(opacity=100); opacity: 1.00;
+        -webkit-transition: all .1s ease-out;
+        -moz-transition: all .1s ease-out;
+        -o-transition: all .1s ease-out;
+        transition: all .1s ease-out;
+    
+}

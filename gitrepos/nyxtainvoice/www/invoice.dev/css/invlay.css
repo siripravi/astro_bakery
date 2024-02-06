@@ -1,0 +1,343 @@
+		.clearfix:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+a {
+  color: #5D6975;
+  text-decoration: underline;
+}
+
+
+#header {
+  padding: 10px 0;
+margin-bottom: 20px;
+
+}
+/*
+header {
+ 
+padding: 10px 0;
+margin-bottom: 20px;
+border-bottom: 1px solid #AAAAAA;
+}*/
+
+body {
+ position: relative;
+width: 21cm;
+height: 29.7cm;
+margin: 0 auto;
+color: #555555;
+background: #FFFFFF;
+font-family: Arial, sans-serif;
+font-size: 14px;
+font-family: SourceSansPro;
+}
+
+header {
+  padding: 10px 0;
+  width:98%;
+ /* margin-bottom: 20px;*/
+ /* border-bottom: 1px solid #AAAAAA;*/
+}
+
+#logo {
+  float: left;
+  margin-top: 28px;
+  width:15%;
+}
+
+#logo img {
+  height: 70px;
+}
+
+h1 {
+  border-top: 1px solid  #5D6975;
+  border-bottom: 1px solid  #5D6975;
+  color: #5D6975;
+ /* font-size: 2.4em;
+  line-height: 1.4em;*/
+  font-weight: normal;
+  text-align: center;
+  margin: 0 0 20px 0;
+  background: url(dimension.png);
+  
+   font-size: 28pt;
+    float:right;
+    width:100%;
+  
+     /*top:0.5cm;*/
+    font-weight:    bold;
+    color:          #88a;
+   height:         1cm;
+}
+
+h1 small { 
+  font-size: 0.85em;
+  line-height: 1.5em;
+  float: left;
+} 
+
+h1 small:last-child { 
+  float: right;
+} 
+ .title {
+  /*  font-size: 28pt;
+    float:right;
+    width:100%;
+      font-weight:    bold;
+    color:          #88a;
+   height:         1cm;
+   */
+   color: #0087C3;
+font-size: 2.4em;
+line-height: 1em;
+font-weight: normal;
+margin: 0 0 10px 0;
+   
+}
+
+/*
+#logo {
+ float: left;
+  width:14%;
+
+text-align: center;
+margin-bottom: 10px;
+}
+
+#logo img {
+  width: 90px;
+}
+*/
+/*#logo {
+  float: left;
+  margin-top: 8px;
+}
+
+#logo img {
+  height: 70px;
+}*/
+
+#primeparty {
+	text-align:right;
+	float:right;
+ padding: 5px 0;
+/*margin-bottom: 6px;*/
+/*border-bottom: 1px solid #AAAAAA;*/
+}
+
+	h2.name {
+font-size: 1.4em;
+font-weight: normal;
+margin: 0;
+}
+#intro {
+   /* float: right;  */  
+    width: 100%;
+   /* text-align: left;*/
+  /* border-bottom: 1px solid #C1CED9;*/
+}
+#banner{
+	  float: left;
+	  width:50%
+}
+
+.invoice-meta {
+   /* margin-top:-0.4cm;*/ 
+    float:left;
+    /*border-bottom: 1px solid #DDD;*/	
+   /*padding:6px;*/
+    position: relative;
+    overflow: hidden;
+    text-align: left;
+    /*width:35%;*/
+  /*  line-height: 1.5em;*/
+}
+.invoice-meta dt {
+    float: left;
+  /* width: 46%;*/
+    clear: both;
+    font-weight: bold;
+   
+}
+.invoice-meta dd{
+	   /* line-height: 1.4em;*/
+	     font-size: 1.4em;
+}
+#parties {
+   /*padding:6px;*/
+  /* top:-0.6cm;*/
+    position: relative;
+    overflow: hidden;
+    width:100%;
+    
+}
+dd.dates{
+	float:left;
+	font-size:1.2em;
+}
+h1 {
+	
+  color: #5D6975;
+  font-family: Junge;
+  /*font-size: 2.4em;
+  line-height: 1.4em;*/
+
+  font-weight: normal;
+  text-align: center;
+  border-top: 1px solid #5D6975;
+  border-bottom: 1px solid #5D6975;
+ 
+ /* margin: 0 0 2em 0;*/
+  background: url(/images/dimension.png);
+}
+
+/*dt{color:white;}*/
+
+h3.name{
+	 font-size: 1.1em;
+	 color:white;
+	 background:#C1CED9;
+	 padding:4px;
+	 
+}
+#project {
+  float: left;
+  width:47%;
+  padding-left: 8px;
+/*border-left: 6px solid #C1CED9;*/
+float: left;
+}
+
+#project span {
+  color: #5D6975;
+  text-align: left;
+  /*width: 52px;*/
+ 
+  margin-right: 10px;
+  display: inline-block;
+  font-size: 0.8em;
+}
+
+#company , #company2{
+	
+  float: left;
+  text-align: left;
+   width:47%;
+  padding-left: 8px;
+/*border-left: 6px solid #C1CED9;*/
+float: left;
+}
+
+#project div,
+#company div , #company2 div{
+  white-space: nowrap;        
+}
+
+
+table {
+  width: 100%;
+  border-spacing:2px;
+  /*margin-top:20px;*/
+  border-collapse: collapse;
+  border-spacing: 0;
+  margin-bottom: 20px;
+  margin-right:12px;
+}
+
+table tr:nth-child(2n-1) td {
+  background: #F5F5F5;
+}
+
+table th,
+table td {
+  text-align: center;
+  padding:12px;
+
+ /* border-top: 1px solid #ddd;*/
+}
+.paid{	margin-top:3px;}
+.eventdt{border-bottom:5px solid white;}
+table th {
+  /*padding: 5px 10px;*/
+  
+  color: #5D6975;
+  border: 1px solid #C1CED9;
+  border-top: 1px solid #E0ECFF;
+  white-space: nowrap;        
+  font-weight: bold;
+  text-color:#fff;
+  font-size: 1em;
+	text-align: center;
+	padding: 10px 10px 5px 0;
+
+	margin-top:4px;
+}
+table dd{
+	font-size:1em;
+}
+table .service,
+table .desc {
+  text-align: left;
+}
+td.subtotal{
+	 border-top: 1px solid #C1CED9;
+}
+table .qty, table .price,table .total{
+	text-align:right;
+}
+
+table td {
+ /* padding: 10px;*/
+padding: 2px 10px 5px 0;
+	
+	white-space: nowrap;
+	vertical-align: top;
+  text-align: right;
+}
+
+table th.service, table th.desc, table th.qty,table th.price,table th.total{
+	background:#ADADAD;
+	font-size:1em;
+	color:white;
+	text-align:center;
+}
+table td.service,
+table td.desc {
+  vertical-align: top;
+  border-top: 1px solid #ddd;
+  padding-left:3px;
+}
+table td.service{text-align:right;}
+
+table td.unit,
+table td.qty,
+table td.total {
+  font-size: 1.1em;
+  border-top: 1px solid #ddd;
+}
+
+table td.grand{
+  border-top: 1px solid #5D6975;
+   border-bottom: 1px solid #5D6975;
+  font-weight:bold;
+  font-size:1.2em;
+}
+#notices .notice {
+  color: #5D6975;
+  font-size: 1.1em;
+}
+
+footer {
+  color: #5D6975;
+  width: 100%;
+  height: 30px;
+  position: absolute;
+  bottom: 0;
+  border-top: 1px solid #C1CED9;
+  padding: 8px 0;
+  text-align: center;
+}
+ your_class { page-break-after: always; }

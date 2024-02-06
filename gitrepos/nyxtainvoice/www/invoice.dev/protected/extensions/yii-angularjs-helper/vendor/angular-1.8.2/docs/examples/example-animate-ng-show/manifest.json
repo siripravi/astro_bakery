@@ -1,0 +1,4 @@
+{
+  "name": "example-animate-ng-show",
+  "files": ["index-production.html", "animations.css"]
+}

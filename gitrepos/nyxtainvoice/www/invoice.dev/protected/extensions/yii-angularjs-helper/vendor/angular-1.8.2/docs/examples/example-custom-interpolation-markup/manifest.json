@@ -1,0 +1,4 @@
+{
+  "name": "example-custom-interpolation-markup",
+  "files": ["index-production.html", "protractor.js"]
+}

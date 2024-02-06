@@ -1,0 +1,4 @@
+{
+  "name": "example-directive-bind",
+  "files": ["index-production.html", "script.js", "protractor.js"]
+}

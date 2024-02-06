@@ -1,0 +1,4 @@
+{
+  "name": "example-ng-href",
+  "files": ["index-production.html", "protractor.js"]
+}

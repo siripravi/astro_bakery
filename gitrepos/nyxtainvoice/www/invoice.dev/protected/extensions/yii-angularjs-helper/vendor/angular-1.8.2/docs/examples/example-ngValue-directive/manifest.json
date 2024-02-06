@@ -1,0 +1,4 @@
+{
+  "name": "example-ngValue-directive",
+  "files": ["index-production.html", "protractor.js"]
+}

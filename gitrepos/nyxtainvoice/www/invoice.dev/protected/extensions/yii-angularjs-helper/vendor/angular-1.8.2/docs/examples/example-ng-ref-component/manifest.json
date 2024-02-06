@@ -1,0 +1,4 @@
+{
+  "name": "example-ng-ref-component",
+  "files": ["index-production.html", "index.js", "protractor.js"]
+}

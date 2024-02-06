@@ -1,0 +1,4 @@
+{
+  "name": "example-ng-cloak",
+  "files": ["index-production.html", "protractor.js"]
+}

@@ -1,0 +1,4 @@
+{
+  "name": "example-time-input-directive",
+  "files": ["index-production.html", "protractor.js"]
+}

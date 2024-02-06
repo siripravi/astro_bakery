@@ -1,0 +1,4 @@
+{
+  "name": "example-ngAnimateSwap-directive",
+  "files": ["index-production.html", "script.js", "animations.css"]
+}

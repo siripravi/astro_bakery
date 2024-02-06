@@ -1,0 +1,4 @@
+{
+  "name": "example-number-filter",
+  "files": ["index-production.html", "protractor.js"]
+}

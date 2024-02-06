@@ -1,0 +1,4 @@
+{
+  "name": "example-window-service",
+  "files": ["index-production.html", "protractor.js"]
+}

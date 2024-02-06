@@ -1,0 +1,4 @@
+{
+  "name": "example-ngProp",
+  "files": ["index-production.html", "app.js", "main.html", "styles.css"]
+}

@@ -1,0 +1,4 @@
+{
+  "name": "example-ng-pluralize",
+  "files": ["index-production.html", "protractor.js"]
+}
